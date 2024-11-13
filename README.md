@@ -71,7 +71,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media.giphy.com/media/3o84UaJJJE2k9RceFa/giphy.gif?cid=790b7611xpwyqfgp0hzyffuala2p18hskbmogwm9zvsqztol&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
