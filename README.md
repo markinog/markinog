@@ -19,13 +19,15 @@
 
 ###
 
+<p align="left">★  📧 Contact: marcussla9@gmail.com</p>
+
+###
+
 <p align="left">★  👨‍💻 More about me</p>
 
 ###
 
-<p align="left">★  📧 Contact: marcussla9@gmail.com</p>
 
-###
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api??user=riewcjx63fexxtl7w941tgxhy&count=1)
 
